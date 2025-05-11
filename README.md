@@ -5,7 +5,7 @@
 <ul dir="auto">
 <li>🌍&nbsp; I'm based in Viet Nam</li>
 <li>👨‍🎓  Studied at Van Lang University (VLU)</li>
-<li>🖥️&nbsp; See my portfolio website at <a href="https://www.thanhnamnguyen.dev/" rel="nofollow">thanhnamnguyen.dev</a></li>
+<li>🖥️&nbsp; See my portfolio website at <a href="https://dev.to/hoanglongwork" rel="nofollow">.dev</a></li>
 <li>📝  Blog at <a href="https://www.thanhnamnguyen.dev/blog" rel="nofollow">thanhnamnguyen.dev/blog</a></li>
 <li>✉️&nbsp; You can contact me via <a href="mailto:namnguyenthanh.work@gmail.com">namnguyenthanh.work@gmail.com</a></li>
 </ul>
